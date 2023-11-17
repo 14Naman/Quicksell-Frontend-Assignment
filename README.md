@@ -9,7 +9,7 @@ An interactive Kanban board application built using React JS and SCSS. The board
   - **By Status**: Tickets are grouped based on their current status.
   - **By User**: Tickets are arranged according to the assigned user.
   - **By Priority**: Tickets are grouped based on their priority level.
-- ****:
+- **Ordering**:
   - **Priority**: Tickets are arranged in descending order of priority.
   - **Title**: Tickets are sorted in ascending order based on their title.
 - **User's View State Persistence**: The application saves the user's view state, even after a page reload.
